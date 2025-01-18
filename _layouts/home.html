@@ -1,10 +1,22 @@
 ---
-layout: archive
+layout: single
+classes: wide
 ---
 
-{{ content }}
+<!-- {{ content }} -->
+<!-- <h1>Ryohei Oishi</h1> -->
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h2>Welcome to my webpage!</h2>
+<div>
+  I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics" target="_blank">University College London</a> (UCL).
+</div>
+<div>
+  My research interests are in macroeconomics and macroeconometrics.
+</div>
+<div>
+  You can find <a href="https://ryohei-oishi.github.io/RyoheiOishiCV.pdf" target="_blank">my CV here</a>.
+</div>
+
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -17,4 +29,34 @@ layout: archive
   {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
 
-{% include paginator.html %}
+<h3>Education</h3>
+<ul style="list-style: none; padding: 0; font-size: 0.9em;">
+  <li>
+    PhD candidate in Economics <br>
+    <span style="color: gray;">University College London (2023 - Present)</span>
+  </li>
+  <li>
+    MRes in Economics (Distinction and Dean's List) <br>
+    <span style="color: gray;">University College London (2022 - 2023)</span>
+  </li>
+  <li>
+    MA in Economics <br>
+    <span style="color: gray;">Hitotsubashi University (2018)</span>
+  </li>
+  <li>
+    BA in Economics <br>
+    <span style="color: gray;">Hitotsubashi University (2017)</span>
+  </li>
+</ul>
+
+<h3>Professional Experience</h3>
+<ul style="list-style: none; padding: 0; font-size: 0.9em;">
+  <li>
+    Bank of Japan (2018 - Present)</span>
+  </li>
+</ul>
+
+
+<h3>Email</h3>
+<div>ryohei.oishi.22 (at) ucl.ac.uk</div>
+<br>
