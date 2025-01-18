@@ -19,7 +19,7 @@ permalink: /research/
 
 "Fiscal adjustments and optimal monetary policy in HANK" (Draft coming soon)
 
-"Gelfand and Dey’s Modified Harmonic Mean Estimator of Marginal Data Densities: A Reappraisal and Extension" (Draft coming soon)
+"Simulation Pseudo-Bias Robust Modified Harmonic Mean Estimator for Marginal Data Densities and Its Extension" (Draft coming soon)
 
 "Structural Estimation of Dynamic Equilibrium Models with Unstructured Data"
 (with <a href="https://www.saracasella.com/" target="blank">Sara Casella</a>,
