@@ -2,6 +2,7 @@
 layout: archive
 permalink: /contact/
 author_profile: true
+title: "Contact"
 ---
 
 ### Email
