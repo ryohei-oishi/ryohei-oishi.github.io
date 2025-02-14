@@ -18,7 +18,7 @@ title: "Research"
 
 ## Some Work in Progress
 
-<!-- "Fiscal adjustments and optimal monetary policy in HANK" (Draft coming soon) -->
+"Fiscal adjustments and optimal monetary policy in HANK" (Draft coming soon)
 
 <!-- "Simulation Pseudo-Bias Robust Modified Harmonic Mean Estimator for Marginal Data Densities and Its Extension" (Draft coming soon) -->
 
