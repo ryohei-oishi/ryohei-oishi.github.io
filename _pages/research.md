@@ -7,7 +7,6 @@ title: "Research"
 ---
 
 ## Working Papers
-<!-- "Gelfand and Dey’s Modified Harmonic Mean Estimator of Marginal Data Densities: A Reappraisal and Extension" (The slides are here) -->
 
 <a href = 'https://www.clevelandfed.org/publications/working-paper/2022/wp-2234-sticky-information-versus-sticky-prices-revisited' target="blank">"Sticky Information Versus Sticky Prices Revisited: A Bayesian VAR-GMM Approach"</a>
 (with <a href = "https://ideas.repec.org/e/pku88.html" target = "blank">Takushi Kurozumi</a> and <a href = "https://www.clevelandfed.org/people/profiles/v/van-zandweghe-willem" target="blank">Willem Van Zandweghe</a>), Federal Reserve Bank of Cleveland Working Paper Series (WP 22-34)
@@ -20,7 +19,7 @@ title: "Research"
 
 "Fiscal adjustments and optimal monetary policy in HANK" (Draft coming soon)
 
-<!-- "Simulation Pseudo-Bias Robust Modified Harmonic Mean Estimator for Marginal Data Densities and Its Extension" (Draft coming soon) -->
+"Simulation Pseudo-Bias in Modified Harmonic Mean Estimators of Marginal Likelihoods: Robustness and Bias Correction" (Draft coming soon)
 
 "Structural Estimation of Dynamic Equilibrium Models with Unstructured Data"
 (with <a href="https://www.saracasella.com/" target="blank">Sara Casella</a>,
