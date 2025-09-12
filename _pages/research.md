@@ -17,7 +17,9 @@ title: "Research"
 <br/>
 
 ## Some Work in Progress
-"Fiscal adjustments and optimal monetary policy in HANK" (Draft coming soon)
+"Assessing Partial Exogeneity of Shock Proxies: A Bayesian Proxy-DSGE framework" (Draft coming soon. Slides available upon request)
+
+"Fiscal adjustments and optimal monetary policy in HANK"
 
 "Structural Estimation of Dynamic Equilibrium Models with Unstructured Data"
 (with <a href="https://www.saracasella.com/" target="blank">Sara Casella</a>,
