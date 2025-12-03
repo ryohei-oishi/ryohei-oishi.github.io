@@ -17,7 +17,7 @@ title: "Research"
 <br/>
 
 ## Some Work in Progress
-"Assessing Partial Exogeneity of Shock Proxies: A Bayesian Proxy-DSGE framework" (Draft coming soon. Slides available upon request)
+<!-- "Assessing Exogeneity of Shock Proxies" (Draft coming soon. Preliminary slides available upon request) -->
 
 "Fiscal adjustments and optimal monetary policy in HANK"
 
