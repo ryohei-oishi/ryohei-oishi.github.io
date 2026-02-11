@@ -32,11 +32,11 @@ classes: wide
 
   /* Add margin-top to the transition list for smooth animation */
   transition: 
-    max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), 
-    opacity 0.4s ease,
-    margin-top 0.4s ease;
+    max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+    opacity 0.3s ease,
+    margin-top 0.3s ease;
   
-  background-color: #fcfcfc;
+  background-color: transparent;
   border-left: 2px solid #fcfcfc;
   max-width: 800px; line-height: 1.3; text-align: justify;
   color: black;
@@ -56,6 +56,11 @@ classes: wide
   opacity: 1;
   /* This creates the margin/gap before the summary box starts */
   margin-top: 10px; 
+}
+
+.paper-box.active {
+  background-color: #f2f2f2;
+  transition: background-color 0.3s ease;
 }
 </style>
 
@@ -105,7 +110,7 @@ classes: wide
     <a href="" target="_blank" style="text-decoration: none; color: #1e88e5; border: 1px solid currentColor; border-radius: 3px; padding: 0 4px; font-size: 0.8em;">SSRN</a> -->
   </span>
   </summary>
-  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 600px; line-height: 1.3; text-align: justify; color: black;">
+  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 800px; line-height: 1.3; text-align: justify; color: black;">
   <!-- This paper proposes weak-instrument-robust inference methods that achieve accurate size in finite samples for macroeconomic equations identified by structural shock proxies. The methods ensure size control for Anderson–Rubin and Kleibergen’s LM test statistics with Almon-parameterized instruments by imposing the null hypothesis when computing the heteroskedasticity- and autocorrelation-robust long-run variance. Applying these methods to the Phillips curve highlights the empirical importance of size accuracy: unlike existing methods that may introduce size distortion, the proposed methods do not reject either a completely flat or a very steep Phillips curve. Turning to fiscal policy rules, I find that the tax multiplier is statistically significantly positive, and approximately one. -->
   </div>
   </details>
@@ -114,10 +119,10 @@ classes: wide
 <div class="paper-box">
   <span class="title-text">Structural Estimation of Dynamic Equilibrium Models with Unstructured Data</span>
   <div class="coauthor-line">
-    with <a href="https://www.saracasella.com/" target="blank" style="color: inherit; text-decoration: none;">Sara Casella</a>,
-    <a href="https://www.sas.upenn.edu/~jesusfv/" target="blank" style="color: inherit; text-decoration: none;">Jesús Fernández-Villaverde</a>,
-    <a href="https://sekhansen.github.io/" target="blank" style="color: inherit; text-decoration: none;">Stephen Hansen</a>, and
-    <a href="https://mcmcs.github.io/" target="blank" style="color: inherit; text-decoration: none;">Minchul Shin</a>
+    with <a href="https://www.saracasella.com/" target="blank" style="color: inherit; text-decoration: underline;">Sara Casella</a>,
+    <a href="https://www.sas.upenn.edu/~jesusfv/" target="blank" style="color: inherit; text-decoration: underline;">Jesús Fernández-Villaverde</a>,
+    <a href="https://sekhansen.github.io/" target="blank" style="color: inherit; text-decoration: underline;">Stephen Hansen</a>, and
+    <a href="https://mcmcs.github.io/" target="blank" style="color: inherit; text-decoration: underline;">Minchul Shin</a>
   </div>
 
   <div class="hover-comment">
@@ -134,24 +139,24 @@ classes: wide
     <a href="" target="_blank" style="text-decoration: none; color: #1e88e5; border: 1px solid currentColor; border-radius: 3px; padding: 0 4px; font-size: 0.8em;">Philly Fed</a> -->
   </span>
   </summary>
-  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 600px; line-height: 1.3; text-align: justify; color: black;">
+  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 800px; line-height: 1.3; text-align: justify; color: black;">
   <!-- We develop a general econometric framework that integrates unstructured data into the structural estimation of dynamic equilibrium models. The framework augments a standard state-space dynamic equilibrium models with a non-core measurement block that links latent structural shocks to a large collection of time series derived from unstructured sources. Because only a subset of these series is informative, we impose a sparse spike-and-slab prior on the measurement loadings, allowing the data to select relevant signals while preserving structural discipline. We apply the approach to a medium-scale New Keynesian DSGE model for the U.S. using topic measures extracted from FOMC transcripts. Incorporating text improves joint forecasting performance and materially alters structural inference, lowering the estimated responsiveness of monetary policy to inflation and output and implying a steeper Phillips curve. These results show how unstructured data can sharpen the identification of structural parameters with direct policy implications. -->
   </div>
   </details>
 </div>
 
 <div class="paper-box">
-  <span class="title-text">Simulation Pseudo-Bias in Modified Harmonic Mean Estimators of Marginal Likelihoods: Robustness and Bias Correction (Draft available upon request)</span>
+  <span class="title-text">Simulation Pseudo-Bias and Modified Harmonic Mean Estimators of Marginal Likelihoods</span>
 
   <div class="hover-comment">
-    
+    Draft available upon request
   </div>
 
   <details style="margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; color: inherit; font-size: 0.9em;">
   Abstract
   </summary>
-  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 600px; line-height: 1.3; text-align: justify; color: black;">
+  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 800px; line-height: 1.3; text-align: justify; color: black;">
   </div>
   </details>
 </div>
@@ -160,7 +165,7 @@ classes: wide
   <span class="title-text">Sticky Information Versus Sticky Prices Revisited: A Bayesian VAR-GMM Approach</span>
 
   <div class="coauthor-line">
-    with <a href = "https://ideas.repec.org/e/pku88.html" target = "blank" style="color: inherit; text-decoration: none;">Takushi Kurozumi</a> and <a href = "https://www.clevelandfed.org/people/profiles/v/van-zandweghe-willem" target="blank" style="color: inherit; text-decoration: none;">Willem Van Zandweghe</a>
+    with <a href = "https://ideas.repec.org/e/pku88.html" target = "blank" style="color: inherit; text-decoration: underline;">Takushi Kurozumi</a> and <a href = "https://www.clevelandfed.org/people/profiles/v/van-zandweghe-willem" target="blank" style="color: inherit; text-decoration: underline;">Willem Van Zandweghe</a>
   </div>
 
   <div class="hover-comment">
@@ -175,7 +180,7 @@ classes: wide
   </span>
 
   </summary>
-  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 600px; line-height: 1.3; text-align: justify; color: black;">
+  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 800px; line-height: 1.3; text-align: justify; color: black;">
   Several Phillips curves based on sticky information and sticky prices are estimated and compared using Bayesian VAR-GMM. This method derives expectations in each Phillips curve from a VAR and estimates the Phillips curve parameters and the VAR coefficients simultaneously. Quasi-marginal likelihood-based model comparison selects a dual stickiness Phillips curve in which, each period, some prices remain unchanged, consistent with micro evidence. Moreover, sticky information is a more plausible source of inflation inertia in the Phillips curve than other sources proposed in previous studies. Sticky information, sticky prices, and unchanged prices in each period are all needed to better describe inflation dynamics.
   </div>
   </details>
@@ -185,7 +190,7 @@ classes: wide
   <span class="title-text">A Comparison of Japanese and US New Keynesian Phillips Curves with Bayesian VAR-GMM</span>
 
   <div class="coauthor-line">
-    with <a href = "https://ideas.repec.org/e/pku88.html" target = "blank" style="color: inherit; text-decoration: none;">Takushi Kurozumi</a>
+    with <a href = "https://ideas.repec.org/e/pku88.html" target = "blank" style="color: inherit; text-decoration: underline;">Takushi Kurozumi</a>
   </div>
 
   <div class="hover-comment">
@@ -200,7 +205,7 @@ classes: wide
   </span>
 
   </summary>
-  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 600px; line-height: 1.3; text-align: justify; color: black;">
+  <div style="font-size: 0.8em; margin-top: 0.5em; margin-left: 1em; max-width: 800px; line-height: 1.3; text-align: justify; color: black;">
   We compare Japanese and US inflation dynamics during the post-Global Financial Crisis period by utilizing Bayesian VAR-GMM to estimate several specifications of the New Keynesian Phillips curve. With the estimation method, we derive expectations in the Phillips curve from a VAR and analyze the formation of inflation expectations explicitly. We select the specification with variable elasticity of demand for Japan and that with sticky information for the US, using quasi-marginal likelihood. The selected specifications show that the persistence of inflation expectations formation is higher and trend inflation is lower in Japan than in the US. These findings account for persistently weak inflation developments in Japan: in the presence of firms' cautious price-setting behavior that reflects the purchasing attitude of consumers who are sensitive to price increases, inflation remains low and induces, through the highly persistent formation of inflation expectations, low expected future inflation and hence low trend inflation, which in turn put downward pressure on present inflation through the Phillips curve.
   </div>
   </details>
