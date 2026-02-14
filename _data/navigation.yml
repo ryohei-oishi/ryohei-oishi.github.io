@@ -9,3 +9,5 @@ main:
     target: "_blank"
   - title: "Contact"
     url: /contact/
+  - title: "Pronunciation"
+    url: /pronunciation/
