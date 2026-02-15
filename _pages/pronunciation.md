@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /pronunciation/
+author_profile: true
 title: "My first name: Ryohei"
 ---
 
