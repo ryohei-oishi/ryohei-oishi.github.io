@@ -124,7 +124,7 @@ author:
       url: "mailto:ryohei.oishi.22@ucl.ac.uk"
     - label: "My CV"
       icon: "fa fa-id-card "
-      url: "https://ryohei-oishi.github.io/RyoheiOishiCV.pdf"
+      url: "/cv/"
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
