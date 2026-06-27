@@ -5,12 +5,20 @@ classes: wide
 
 
 <style>
+  body {
+  font-size: 16px;
+}
 /* The container for each paper */
 .paper-box {
   cursor: pointer;
   margin-bottom: 2px;
   border-bottom: 2px solid #eee;
   padding-bottom: 1px;
+}
+
+/* Make paper titles bold */
+.title-text {
+  font-weight: bold;
 }
 
 /* Style for coauthors */
@@ -68,19 +76,17 @@ classes: wide
 <!-- <h1>Ryohei Oishi</h1> -->
 
 <h2>Welcome to my webpage!</h2>
-<div>
-  I am a PhD student in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics" target="_blank">University College London</a> (UCL) and a <a href="https://cemmap.ac.uk/" target="_blank">cemmap</a> <a href="https://cemmap.ac.uk/person/ryohei-oishi/" target="_blank">PhD scholar</a>
+<div style="font-size: 1.0em;">
+  <div>
+    I am a PhD student in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics" target="_blank">University College London</a> (UCL) and a <a href="https://cemmap.ac.uk/" target="_blank">cemmap</a> <a href="https://cemmap.ac.uk/person/ryohei-oishi/" target="_blank">PhD scholar</a>.
+  </div>
+  <div>
+    My research interests are in macroeconometrics, macroeconomics, and machine learning/AI, with a focus on business cycles.
+  </div>
+  <div>
+    You can find my CV <a href="/cv/" target="_self">here</a>. Here are some <a href="/pronunciation/" target="_self">tips</a> to pronounce my first name
+  </div>
 </div>
-<div>
-  My research interests are in macroeconometrics, macroeconomics, and machine learning/AI, with a focus on business cycles.
-</div>
-<div>
-  You can find my CV <a href="/cv/" target="_self">here</a>
-</div>
-<div>
-  Here are some <a href="/pronunciation/" target="_self">tips</a> to pronounce my first name
-</div>
-
 
 
 {% if paginator %}
