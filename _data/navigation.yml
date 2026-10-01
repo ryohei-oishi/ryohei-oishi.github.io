@@ -7,7 +7,7 @@ main:
   - title: "CV"
     url: /cv/
     # target: "_blank"
-  - title: "Contact"
-    url: /contact/
   - title: "Pronunciation"
     url: /pronunciation/
+  - title: "日本語"
+    url: /japanese/

@@ -5,7 +5,7 @@ author_profile: true
 title: "My first name: Ryohei"
 ---
 
-Here are a few tips for pronouncing my first name.
+<p style="font-size: 0.9em;">Here are a few tips on how to pronounce my first name. Let me know if you have any better ways to explain the pronunciation of &quot;Ryohei&quot;.</p>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   
@@ -22,5 +22,5 @@ Here are a few tips for pronouncing my first name.
   </div>
 
 </div>
-In this video, a Japanese actor, Ryohei Suzuki, explains how to pronounce "Ryohei" in English.
+<p style="font-size: 0.9em;">In this video, a Japanese actor, Ryohei Suzuki, explains how to pronounce &quot;Ryohei&quot; in English.</p>
 <!-- In this interview with Japanese actor Ryohei Suzuki, the interviewer’s pronunciation of “Ryohei” is excellent—and naturally, Suzuki’s is perfect. -->
