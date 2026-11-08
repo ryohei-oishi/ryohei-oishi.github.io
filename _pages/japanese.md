@@ -15,7 +15,7 @@ share: false
 ## 大石凌平のウェブページへようこそ！
 
 * **所属:** <a href="https://www.boj.or.jp/" target="_blank">日本銀行</a>、エコノミスト
-* **勤務経験:** 金融市場局市場調節課、福島支店、企画局政策調査課等
+* **勤務経験:** 金融市場局市場調節課、福島支店、企画局政策調査課、金融機構局金融システム調査課等
 * **最終学歴:** PhD in Economics [博士 (経済学)], <a href="https://www.ucl.ac.uk/" target="_blank">ユニバーシティ・カレッジ・ロンドン (UCL)</a>
 * **研究分野:** マクロ計量経済学、マクロ経済学、機械学習・AI
 * <a href="/cv/" target="_blank">履歴書（英文)</a>
@@ -69,7 +69,7 @@ share: false
 ---
 
 ## その他の記事・論文
-* <a href="" target="_blank">Essays on Macroeconometrics and Applied Macroeconomics</a> （UCLでの博士論文）
+* <a href="https://discovery.ucl.ac.uk/id/eprint/10231222/" target="_blank">Essays on Macroeconometrics and Applied Macroeconomics</a> （UCLでの博士論文）
 * <a href="https://www.boj.or.jp/research/brp/mor/mor190530.htm" target="_blank">2018年度の金融市場調節</a> （日本銀行調査論文）
 * <a href="https://www3.boj.or.jp/fukushima/kouhyo/120report.pdf" target="_blank">福島県の経済・産業の推移と今後の課題：日本銀行福島支店開設 120 周年特別レポート</a> （日本銀行調査論文、川口 圭太氏との共著）
 * <a href="https://www3.boj.or.jp/fukushima/kouhyo/yellreport.pdf" target="_blank">ＮＨＫ連続テレビ小説「エール」の放映に伴う福島県経済への波及効果</a> （日本銀行調査論文）
@@ -78,6 +78,6 @@ share: false
 
 ## 連絡先 (Email)
 * ryohei.oishi.61 (at) gmail.com
-* ryohei.oishi.22 (at) ucl.ac.uk
+* ryohei.oishi.22 (at) alumni.ucl.ac.uk
 
 <small style="color: #666;">注意事項：本ウェブサイトにおける見解はすべて私個人のものであり、私が現在所属する、もしくは過去に所属していた、いかなる機関や組織の見解や政策を代表するものではありません。</small>
