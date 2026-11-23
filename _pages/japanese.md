@@ -80,4 +80,8 @@ share: false
 * ryohei.oishi.61 (at) gmail.com
 * ryohei.oishi.22 (at) alumni.ucl.ac.uk
 
+## その他
+* <a href="https://ikkyosai.com/visitor/search/event/4105" target="_blank">2026年度一橋大学文化祭でのキャリア講演</a>
+* <a href="https://www4.econ.hit-u.ac.jp/glp/?page_id=3071" target="_blank">一橋大学GLPプログラム卒業生のページ</a>
+
 <small style="color: #666;">注意事項：本ウェブサイトにおける見解はすべて私個人のものであり、私が現在所属する、もしくは過去に所属していた、いかなる機関や組織の見解や政策を代表するものではありません。</small>
